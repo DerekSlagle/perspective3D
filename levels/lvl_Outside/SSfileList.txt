@@ -1,0 +1,9 @@
+images/
+
+3
+flame2_SSdata.txt
+tiles1_SSdata.txt
+M484SpaceSoldier_SSdata.txt
+
+1
+2 0 0 0
